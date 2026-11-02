@@ -1,0 +1,81 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-serif: "Playfair Display", "Cormorant Garamond", Georgia, serif;
+    --font-display: "Cormorant Garamond", Georgia, serif;
+    --font-cursive: "Great Vibes", cursive;
+    --font-sans: "Plus Jakarta Sans", system-ui, -apple-system, sans-serif;
+  }
+
+  body {
+    font-family: var(--font-sans);
+    background-color: #FAF8F5;
+    color: #2D1A22;
+    overflow-x: hidden;
+  }
+}
+
+.font-serif-royal {
+  font-family: var(--font-serif);
+}
+
+.font-display-luxury {
+  font-family: var(--font-display);
+}
+
+.font-cursive-flourish {
+  font-family: var(--font-cursive);
+}
+
+/* Glassmorphism & Royal Glows */
+.glass-card {
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(183, 110, 121, 0.2);
+}
+
+.glass-card-dark {
+  background: rgba(45, 10, 18, 0.82);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  border: 1px solid rgba(212, 163, 115, 0.3);
+}
+
+.rose-gold-glow {
+  box-shadow: 0 8px 30px -4px rgba(183, 110, 121, 0.25), 0 0 1px 1px rgba(183, 110, 121, 0.15);
+}
+
+.rose-gold-glow-hover:hover {
+  box-shadow: 0 14px 38px -4px rgba(183, 110, 121, 0.35), 0 0 12px 2px rgba(212, 163, 115, 0.25);
+}
+
+.maroon-gradient {
+  background: linear-gradient(135deg, #4A0E17 0%, #2D0A12 50%, #5C1D27 100%);
+}
+
+.rose-gold-gradient {
+  background: linear-gradient(135deg, #E6C2C7 0%, #C58F96 50%, #B76E79 100%);
+}
+
+.text-gold-gradient {
+  background: linear-gradient(135deg, #D4AF37 0%, #E6C280 50%, #AA771C 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #FAF8F5;
+}
+::-webkit-scrollbar-thumb {
+  background: #D8B4BC;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #B76E79;
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Madeena Dresses - Luxury Home Boutique",
+  "description": "Royal and sophisticated women's ethnic wear home boutique featuring bridal lehengas, Pakistani designer suits, sarees, anarkalis, modest abayas, and festive collections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

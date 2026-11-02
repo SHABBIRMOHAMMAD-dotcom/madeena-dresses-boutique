@@ -1,0 +1,28 @@
+{
+  "name": "madeena-dresses-backend",
+  "version": "1.0.0",
+  "description": "Production-ready backend API for Madeena Dresses boutique e-commerce platform",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "test": "node tests/api.test.js"
+  },
+  "keywords": [
+    "express",
+    "boutique",
+    "ecommerce",
+    "nodemailer",
+    "api"
+  ],
+  "author": "Madeena Dresses",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "nodemailer": "^6.9.16"
+  }
+}
+
