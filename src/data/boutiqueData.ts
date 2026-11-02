@@ -36,7 +36,7 @@ export const HERO_SLIDES = [
     description: "Welcome to our exclusive home boutique. Discover royal bridal lehengas, Pakistani suits, and designer ethnic wear handcrafted with love and custom tailored at welcoming prices.",
     ctaText: "Explore Collection",
     tagline: "Home Boutique Exclusive",
-    image: "/src/assets/images/hero_bridal_lehenga_1793507319785.jpg",
+    image: "/assets/images/hero_bridal_lehenga_1793507319785.jpg",
     accent: "Rose Gold & Velvet Maroon",
     targetCategory: "lehengas"
   },
@@ -47,7 +47,7 @@ export const HERO_SLIDES = [
     description: "Breathtaking heavy threadwork, intricate cutwork borders, and flowing feather-light dupattas available right at our home boutique with personalized fittings.",
     ctaText: "View Designer Suits",
     tagline: "Festive Home Collection",
-    image: "/src/assets/images/hero_pakistani_suit_1793507319779.jpg",
+    image: "/assets/images/hero_pakistani_suit_1793507319779.jpg",
     accent: "Emerald Green & Dusty Blush",
     targetCategory: "ladies-pakistani-suits"
   },
@@ -58,7 +58,7 @@ export const HERO_SLIDES = [
     description: "Flared silhouettes adorned with micro-sequins, zari florets, and delicate georgette draping made for unforgettable celebrations.",
     ctaText: "Discover Anarkalis",
     tagline: "Pure Artisanal Opulence",
-    image: "/src/assets/images/category_anarkali_gown_1793507321253.jpg",
+    image: "/assets/images/category_anarkali_gown_1793507321253.jpg",
     accent: "Ivory White & Antique Gold",
     targetCategory: "anarkalis-long-frogs"
   },
@@ -69,7 +69,7 @@ export const HERO_SLIDES = [
     description: "Authentic handloom silks, intricate temple borders, and opulent pallus that pass down royal grace through generations.",
     ctaText: "Shop Sarees",
     tagline: "Handcrafted Heritage",
-    image: "/src/assets/images/category_designer_saree_1793507321323.jpg",
+    image: "/assets/images/category_designer_saree_1793507321323.jpg",
     accent: "Crimson Maroon & Warm Gold",
     targetCategory: "sarees"
   },
@@ -80,7 +80,7 @@ export const HERO_SLIDES = [
     description: "Finest Nida fabric, delicate French lace trimmings, and refined rose gold accents tailored for sophisticated modest fashion.",
     ctaText: "Explore Modest Wear",
     tagline: "Modern Modesty",
-    image: "/src/assets/images/category_abaya_modest_1793507320741.jpg",
+    image: "/assets/images/category_abaya_modest_1793507320741.jpg",
     accent: "Jet Black & Rose Gilded Lace",
     targetCategory: "burqas-abayas"
   }
@@ -93,7 +93,7 @@ export const BOUTIQUE_CATEGORIES: Category[] = [
     name: "Lehengas",
     subtitle: "Bridal & Festive Royale",
     description: "Zardozi, gotapatti, sequins & raw silk grand lehengas crafted for brides and festive celebrations.",
-    image: "/src/assets/images/hero_bridal_lehenga_1793507319785.jpg",
+    image: "/assets/images/hero_bridal_lehenga_1793507319785.jpg",
     accentColor: "from-rose-900/80 to-amber-950/90",
     itemCount: 42
   },
@@ -103,7 +103,7 @@ export const BOUTIQUE_CATEGORIES: Category[] = [
     name: "Ladies Pakistani Suits",
     subtitle: "Designer Lawn & Heavy Chiffon",
     description: "Intricate neckline embroidery, organza cutwork, and digital printed luxury lawn with heavy chiffon dupattas.",
-    image: "/src/assets/images/hero_pakistani_suit_1793507319779.jpg",
+    image: "/assets/images/hero_pakistani_suit_1793507319779.jpg",
     accentColor: "from-emerald-950/80 to-rose-950/90",
     itemCount: 38
   },
@@ -113,7 +113,7 @@ export const BOUTIQUE_CATEGORIES: Category[] = [
     name: "Long Frocks & Anarkalis",
     subtitle: "Floor-Length Regal Gowns",
     description: "Majestic kalis, heavy can-can flares, and exquisite mirror & pearl embellishments.",
-    image: "/src/assets/images/category_anarkali_gown_1793507321253.jpg",
+    image: "/assets/images/category_anarkali_gown_1793507321253.jpg",
     accentColor: "from-amber-900/80 to-rose-950/90",
     itemCount: 29
   },
@@ -123,7 +123,7 @@ export const BOUTIQUE_CATEGORIES: Category[] = [
     name: "Sarees",
     subtitle: "Traditional & Designer Drapes",
     description: "Pure Kanjeevaram, Banarasi Silk, Georgette ruffled cocktail sarees, and Organza hand-painted drapes.",
-    image: "/src/assets/images/category_designer_saree_1793507321323.jpg",
+    image: "/assets/images/category_designer_saree_1793507321323.jpg",
     accentColor: "from-rose-950/80 to-stone-900/90",
     itemCount: 46
   },
@@ -133,7 +133,7 @@ export const BOUTIQUE_CATEGORIES: Category[] = [
     name: "Burqas & Abayas",
     subtitle: "Modest Luxury & Designer Cuts",
     description: "Breathable Korean Nida, Front-open kimonos, butterfly cuts, and embroidered evening abayas.",
-    image: "/src/assets/images/category_abaya_modest_1793507320741.jpg",
+    image: "/assets/images/category_abaya_modest_1793507320741.jpg",
     accentColor: "from-neutral-950/85 to-rose-950/80",
     itemCount: 31
   },
@@ -143,7 +143,7 @@ export const BOUTIQUE_CATEGORIES: Category[] = [
     name: "Scarfs & Chunies",
     subtitle: "Designer Dupattas & Stoles",
     description: "Banarasi brocade dupattas, Phulkari chunies, velvet zardozi shawls, and featherlight modal stoles.",
-    image: "/src/assets/images/hero_pakistani_suit_1793507319779.jpg",
+    image: "/assets/images/hero_pakistani_suit_1793507319779.jpg",
     accentColor: "from-pink-950/80 to-rose-900/80",
     itemCount: 24
   },
@@ -153,7 +153,7 @@ export const BOUTIQUE_CATEGORIES: Category[] = [
     name: "Cotton Dresses",
     subtitle: "Daily & Comfort Wear",
     description: "100% pure Mulmul and Cambric cotton breathable kurtis, co-ord sets, and soothing daily casuals.",
-    image: "/src/assets/images/category_anarkali_gown_1793507321253.jpg",
+    image: "/assets/images/category_anarkali_gown_1793507321253.jpg",
     accentColor: "from-stone-900/80 to-rose-950/80",
     itemCount: 35
   },
@@ -163,7 +163,7 @@ export const BOUTIQUE_CATEGORIES: Category[] = [
     name: "Party Wear Dresses",
     subtitle: "Glitzy Evening & Reception Silhouettes",
     description: "Sequin jacket sets, draped Indo-western gowns, peplum shararas, and cocktail ensembles.",
-    image: "/src/assets/images/hero_bridal_lehenga_1793507319785.jpg",
+    image: "/assets/images/hero_bridal_lehenga_1793507319785.jpg",
     accentColor: "from-purple-950/80 to-rose-950/90",
     itemCount: 27
   },
@@ -173,7 +173,7 @@ export const BOUTIQUE_CATEGORIES: Category[] = [
     name: "Punjabi Dresses",
     subtitle: "Patiala & Salwar Suits",
     description: "Authentic flared Patiala salwars, embroidered short kurtis, mirror work dupattas, and festive suits.",
-    image: "/src/assets/images/hero_pakistani_suit_1793507319779.jpg",
+    image: "/assets/images/hero_pakistani_suit_1793507319779.jpg",
     accentColor: "from-red-950/80 to-amber-950/90",
     itemCount: 22
   },
@@ -183,7 +183,7 @@ export const BOUTIQUE_CATEGORIES: Category[] = [
     name: "Tops & Leggings",
     subtitle: "Contemporary Ethnic & Everyday Bottoms",
     description: "4-way stretch churidar leggings, palazzo pants, silk cigarette pants, and stylish short fusion tops.",
-    image: "/src/assets/images/category_abaya_modest_1793507320741.jpg",
+    image: "/assets/images/category_abaya_modest_1793507320741.jpg",
     accentColor: "from-rose-950/80 to-slate-950/80",
     itemCount: 19
   },
@@ -193,7 +193,7 @@ export const BOUTIQUE_CATEGORIES: Category[] = [
     name: "Home Essentials",
     subtitle: "Door Curtains & Luxury Bed Sheets",
     description: "Jacquard blackout door curtains, velvet royal bedsheets with pillow shams, and traditional diwan sets.",
-    image: "/src/assets/images/category_designer_saree_1793507321323.jpg",
+    image: "/assets/images/category_designer_saree_1793507321323.jpg",
     accentColor: "from-amber-950/80 to-stone-900/90",
     itemCount: 16
   }
@@ -213,7 +213,7 @@ export const PRODUCTS_CATALOG: Product[] = [
     color: "Deep Maroon & Rose Gold",
     sizes: ["S", "M", "L", "XL", "XXL", "Custom Bridal Stitching"],
     description: "An heirloom masterpiece designed for the royal bride. Features an opulent circular flare with double can-can layer, accompanied by a heavily embellished sweetheart blouse and dual dupattas.",
-    image: "/src/assets/images/hero_bridal_lehenga_1793507319785.jpg",
+    image: "/assets/images/hero_bridal_lehenga_1793507319785.jpg",
     badge: "Special ₹3,000",
     isFeatured: true,
     isBestSeller: true,
@@ -231,7 +231,7 @@ export const PRODUCTS_CATALOG: Product[] = [
     color: "Soft Blush Pink & Ivory",
     sizes: ["S", "M", "L", "XL", "XXL", "Semi-Stitched"],
     description: "Romantic pastel beauty featuring cascading floral motifs in rose gold thread, sparkling crystal sequins, and a featherlight embroidered organza dupatta.",
-    image: "/src/assets/images/hero_bridal_lehenga_1793507319785.jpg",
+    image: "/assets/images/hero_bridal_lehenga_1793507319785.jpg",
     badge: "Special ₹3,000",
     isFeatured: true,
     inStock: true
@@ -248,7 +248,7 @@ export const PRODUCTS_CATALOG: Product[] = [
     color: "Imperial Emerald & Gold",
     sizes: ["S", "M", "L", "XL", "XXL", "Custom Fit"],
     description: "Regal jewel-tone silhouette woven with authentic Mughal motifs. Perfect for Sangeet, Mehendi, and festive celebrations.",
-    image: "/src/assets/images/hero_pakistani_suit_1793507319779.jpg",
+    image: "/assets/images/hero_pakistani_suit_1793507319779.jpg",
     badge: "Festive Edit",
     isFeatured: false,
     inStock: true
@@ -267,7 +267,7 @@ export const PRODUCTS_CATALOG: Product[] = [
     color: "Forest Emerald & Champagne Pink",
     sizes: ["S", "M", "L", "XL", "XXL", "Unstitched"],
     description: "Imported luxury designer suit with a heavily embroidered front daman, delicate sleeve cutwork, and an 80-gram pure chiffon printed dupatta with scalloped borders.",
-    image: "/src/assets/images/hero_pakistani_suit_1793507319779.jpg",
+    image: "/assets/images/hero_pakistani_suit_1793507319779.jpg",
     badge: "Special ₹3,000",
     isFeatured: true,
     isBestSeller: true,
@@ -285,7 +285,7 @@ export const PRODUCTS_CATALOG: Product[] = [
     color: "Lavender & Powder Blue",
     sizes: ["S", "M", "L", "XL", "XXL", "Unstitched"],
     description: "Breathable ultra-fine combed lawn with elaborate neckline patches, organza sleeve inserts, and digitally printed silk-blend dupatta.",
-    image: "/src/assets/images/hero_pakistani_suit_1793507319779.jpg",
+    image: "/assets/images/hero_pakistani_suit_1793507319779.jpg",
     badge: "Festive Lawn",
     isFeatured: true,
     inStock: true
@@ -302,7 +302,7 @@ export const PRODUCTS_CATALOG: Product[] = [
     color: "Royal Plum & Antique Bronze",
     sizes: ["S", "M", "L", "XL", "XXL", "Custom Fit"],
     description: "Winter and wedding exclusive Pakistani suit featuring rich velvet bodice and organza ruffles with gold tilla work.",
-    image: "/src/assets/images/hero_bridal_lehenga_1793507319785.jpg",
+    image: "/assets/images/hero_bridal_lehenga_1793507319785.jpg",
     badge: "Special ₹3,000",
     inStock: true
   },
@@ -320,7 +320,7 @@ export const PRODUCTS_CATALOG: Product[] = [
     color: "Ivory White & Warm Rose Gold",
     sizes: ["S", "M", "L", "XL", "XXL", "Custom Length"],
     description: "56-kali royal flared floor-length gown featuring grand yoke work, dramatic translucent sleeves with button cuffs, and a full-length sequined stole.",
-    image: "/src/assets/images/category_anarkali_gown_1793507321253.jpg",
+    image: "/assets/images/category_anarkali_gown_1793507321253.jpg",
     badge: "Special ₹3,000",
     isFeatured: true,
     isBestSeller: true,
@@ -338,7 +338,7 @@ export const PRODUCTS_CATALOG: Product[] = [
     color: "Deep Wine Maroon",
     sizes: ["S", "M", "L", "XL", "XXL"],
     description: "Stately silhouette with broad border hemline, built-in padded bustier, and matching churidar pants with sheer dupatta.",
-    image: "/src/assets/images/category_anarkali_gown_1793507321253.jpg",
+    image: "/assets/images/category_anarkali_gown_1793507321253.jpg",
     inStock: true
   },
 
@@ -355,7 +355,7 @@ export const PRODUCTS_CATALOG: Product[] = [
     color: "Crimson Maroon & Golden Temple Border",
     sizes: ["Standard 6.3m (With Unstitched Blouse Piece)", "S", "M", "L", "XL", "XXL"],
     description: "Handcrafted master weave boasting rich meenakari work in the opulent grand pallu and contrast heavy brocade blouse piece.",
-    image: "/src/assets/images/category_designer_saree_1793507321323.jpg",
+    image: "/assets/images/category_designer_saree_1793507321323.jpg",
     badge: "Special ₹3,000",
     isFeatured: true,
     isBestSeller: true,
@@ -373,7 +373,7 @@ export const PRODUCTS_CATALOG: Product[] = [
     color: "Powder Blush Pink",
     sizes: ["Standard 6.3m", "Free Size"],
     description: "Contemporary lightweight cocktail saree with delicate hand-drawn roses, crystal highlights, and a designer embroidered designer blouse piece.",
-    image: "/src/assets/images/category_designer_saree_1793507321323.jpg",
+    image: "/assets/images/category_designer_saree_1793507321323.jpg",
     inStock: true
   },
 
@@ -390,7 +390,7 @@ export const PRODUCTS_CATALOG: Product[] = [
     color: "Midnight Jet Black with Rose Gold Accents",
     sizes: ["S", "M", "L", "XL", "XXL (52-60)", "Custom Length"],
     description: "Premium modest gown with graceful batwing fall, hidden snap buttons, delicate rose lace sleeve cuffs, and matching 2-meter chiffon shayla hijab.",
-    image: "/src/assets/images/category_abaya_modest_1793507320741.jpg",
+    image: "/assets/images/category_abaya_modest_1793507320741.jpg",
     badge: "Special ₹3,000",
     isFeatured: true,
     isBestSeller: true,
@@ -408,7 +408,7 @@ export const PRODUCTS_CATALOG: Product[] = [
     color: "Mocha Taupe & Soft Ivory",
     sizes: ["S", "M", "L", "XL", "XXL", "52", "54", "56", "58"],
     description: "Versatile dual-layer open kimono abaya featuring a detachable belt and inner slip dress, ideal for everyday elegance and festive gatherings.",
-    image: "/src/assets/images/category_abaya_modest_1793507320741.jpg",
+    image: "/assets/images/category_abaya_modest_1793507320741.jpg",
     inStock: true
   },
 
@@ -425,7 +425,7 @@ export const PRODUCTS_CATALOG: Product[] = [
     color: "Ruby Red & Antique Rose",
     sizes: ["2.5 Meters Full Width", "Free Size"],
     description: "Transform any plain suit into a royal ensemble with this grand Banarasi silk chunni laden with golden booties and temple edging.",
-    image: "/src/assets/images/hero_pakistani_suit_1793507319779.jpg",
+    image: "/assets/images/hero_pakistani_suit_1793507319779.jpg",
     badge: "Essential Luxe",
     isFeatured: false,
     inStock: true
@@ -442,7 +442,7 @@ export const PRODUCTS_CATALOG: Product[] = [
     color: "Multi-Color on Mustard Yellow",
     sizes: ["2.4 Meters", "Free Size"],
     description: "Authentic Punjab artisan hand-crafted Phulkari chunni with shimmering foil mirrors and hand-finished borders.",
-    image: "/src/assets/images/category_anarkali_gown_1793507321253.jpg",
+    image: "/assets/images/category_anarkali_gown_1793507321253.jpg",
     inStock: true
   },
 
@@ -459,7 +459,7 @@ export const PRODUCTS_CATALOG: Product[] = [
     color: "Ocean Indigo & Pearl White",
     sizes: ["S", "M", "L", "XL", "XXL"],
     description: "Featherlight 3-piece daily comfort suit featuring an A-line kurta, straight pants with pocket, and soft cotton dupatta.",
-    image: "/src/assets/images/category_anarkali_gown_1793507321253.jpg",
+    image: "/assets/images/category_anarkali_gown_1793507321253.jpg",
     badge: "Pure Cotton",
     isFeatured: false,
     inStock: true
@@ -476,7 +476,7 @@ export const PRODUCTS_CATALOG: Product[] = [
     color: "Terracotta Peach & Sage",
     sizes: ["S", "M", "L", "XL", "XXL"],
     description: "Charming side-tie Angrakha design with flared hemline, perfect for office wear, shopping sprees, and casual evenings.",
-    image: "/src/assets/images/hero_pakistani_suit_1793507319779.jpg",
+    image: "/assets/images/hero_pakistani_suit_1793507319779.jpg",
     inStock: true
   },
 
@@ -493,7 +493,7 @@ export const PRODUCTS_CATALOG: Product[] = [
     color: "Champagne Rose Gold",
     sizes: ["S", "M", "L", "XL", "XXL"],
     description: "Showstopper reception wear featuring a tailored peplum top with flared sleeves and a dramatic tiered sharara bottom.",
-    image: "/src/assets/images/hero_bridal_lehenga_1793507319785.jpg",
+    image: "/assets/images/hero_bridal_lehenga_1793507319785.jpg",
     badge: "Special ₹3,000",
     isFeatured: true,
     inStock: true
@@ -510,7 +510,7 @@ export const PRODUCTS_CATALOG: Product[] = [
     color: "Midnight Navy & Rose Gold",
     sizes: ["S", "M", "L", "XL", "XXL"],
     description: "Modern elegance with pre-stitched shoulder drape, pleated cowl skirt, and sculpted bodice.",
-    image: "/src/assets/images/category_anarkali_gown_1793507321253.jpg",
+    image: "/assets/images/category_anarkali_gown_1793507321253.jpg",
     inStock: true
   },
 
@@ -527,7 +527,7 @@ export const PRODUCTS_CATALOG: Product[] = [
     color: "Hot Rani Pink & Lime Yellow",
     sizes: ["S", "M", "L", "XL", "XXL"],
     description: "Authentic pleated Patiala salwar with short kurti and pure chiffon tie-dye dupatta with golden lace. Comfortable all-day wear.",
-    image: "/src/assets/images/hero_pakistani_suit_1793507319779.jpg",
+    image: "/assets/images/hero_pakistani_suit_1793507319779.jpg",
     badge: "Special ₹1,000",
     isFeatured: true,
     isBestSeller: true,
@@ -545,7 +545,7 @@ export const PRODUCTS_CATALOG: Product[] = [
     color: "Teal Blue & Mustard",
     sizes: ["S", "M", "L", "XL", "XXL"],
     description: "Vibrant ethnic festive suit with comfortable drape, wrinkle-free fabric, and matching bordered dupatta.",
-    image: "/src/assets/images/category_anarkali_gown_1793507321253.jpg",
+    image: "/assets/images/category_anarkali_gown_1793507321253.jpg",
     badge: "Special ₹1,000",
     inStock: true
   },
@@ -561,7 +561,7 @@ export const PRODUCTS_CATALOG: Product[] = [
     color: "Royal Blue & Sunshine Yellow",
     sizes: ["S", "M", "L", "XL", "XXL"],
     description: "Handcrafted Phulkari embroidery on fine cotton kurta with fully gathered Patiala salwar and contrast dupatta.",
-    image: "/src/assets/images/hero_pakistani_suit_1793507319779.jpg",
+    image: "/assets/images/hero_pakistani_suit_1793507319779.jpg",
     badge: "Special ₹1,000",
     isFeatured: true,
     inStock: true
@@ -580,7 +580,7 @@ export const PRODUCTS_CATALOG: Product[] = [
     color: "Rich Maroon & Black",
     sizes: ["S", "M", "L", "XL", "XXL"],
     description: "Versatile party-ready short kurti pairable with palazzos, cigarette pants, or flared skirts.",
-    image: "/src/assets/images/category_abaya_modest_1793507320741.jpg",
+    image: "/assets/images/category_abaya_modest_1793507320741.jpg",
     inStock: true
   },
   {
@@ -595,7 +595,7 @@ export const PRODUCTS_CATALOG: Product[] = [
     color: "Pack of 3: Gold, Maroon & Ivory",
     sizes: ["Free Size (Up to 42 waist)", "XXL Plus Size (44-50)"],
     description: "Ultra-comfortable all-day stretch leggings with broad elastic waistband that stays flat without pinching.",
-    image: "/src/assets/images/category_abaya_modest_1793507320741.jpg",
+    image: "/assets/images/category_abaya_modest_1793507320741.jpg",
     badge: "Value Pack",
     inStock: true
   },
@@ -613,7 +613,7 @@ export const PRODUCTS_CATALOG: Product[] = [
     color: "Deep Maroon & Antique Gold",
     sizes: ["7 Feet (Door)", "9 Feet (Long Door)"],
     description: "Transform your living room into a royal palace with our 85% light-filtering thermal insulated luxury curtains.",
-    image: "/src/assets/images/category_designer_saree_1793507321323.jpg",
+    image: "/assets/images/category_designer_saree_1793507321323.jpg",
     badge: "Home Luxe",
     inStock: true
   },
@@ -629,7 +629,7 @@ export const PRODUCTS_CATALOG: Product[] = [
     color: "Rose Gold Blush & Wine",
     sizes: ["Super King 108 x 108 inches"],
     description: "Sumptuous winter bedding that exudes warmth and 5-star hotel luxury. Colorfast and machine-wash friendly.",
-    image: "/src/assets/images/hero_bridal_lehenga_1793507319785.jpg",
+    image: "/assets/images/hero_bridal_lehenga_1793507319785.jpg",
     inStock: true
   }
 ];

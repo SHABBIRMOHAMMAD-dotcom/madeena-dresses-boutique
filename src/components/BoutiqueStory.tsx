@@ -87,7 +87,7 @@ export default function BoutiqueStory() {
           <div className="relative">
             <div className="relative z-10 rounded-3xl overflow-hidden shadow-2xl border border-[#B76E79]/30 bg-[#2D0A12] aspect-[4/5]">
               <img
-                src="/src/assets/images/hero_bridal_lehenga_1793507319785.jpg"
+                src="/assets/images/hero_bridal_lehenga_1793507319785.jpg"
                 alt="Madeena Dresses Royal Craftsmanship"
                 referrerPolicy="no-referrer"
                 className="w-full h-full object-cover object-center filter brightness-[0.9]"
